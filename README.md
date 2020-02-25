@@ -1,21 +1,21 @@
-# webapckconfig
+# 基础、优化、环境配置
 
-## Project setup
+## 项目安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发模式 编译热启动
 ```
-npm run serve
+npm run dev
 ```
 
-### Compiles and minifies for production
+### 默认打包
 ```
 npm run build
 ```
 
-### Run your unit tests
+### 单元测试
 ```
 npm run test:unit
 ```
